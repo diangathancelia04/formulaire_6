@@ -1,0 +1,19 @@
+ form{
+        background-color: skyblue ;
+        background-color: skyblue;
+        top: 70%
+        left:50%;
+        position: absolute;
+        translate:-50%  -50%
+        border: 1px solid black;
+        padding: 3rem;
+        margin-top: 70px;
+        width:30%
+        background-color:#779DEE:;
+        box-shadow: 5px 5px 20px  1px rgb(85,85,85);
+        border-radius: 10px 10px 10px;
+        color: whithe;
+        height: 500PX;
+}
+
+        
